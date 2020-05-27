@@ -1,0 +1,106 @@
+body{
+    background:rgba(128, 128, 128, 0.527);
+}
+
+header{
+    text-shadow: 3px 3px 3px rgba(0, 0, 0, .363) ;
+    text-align: center;
+    background: rgb(61, 61, 61);
+    width: 100px;
+    box-shadow: 3px 3px 3px rgba(0, 0, 0, .363);
+    border-radius: 10px;
+    margin-left: 603px;
+    color: cyan;
+    border: 10px;    
+}
+
+section#tela{
+    background:white ;
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    height: 500px;
+    margin: auto;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, .363);
+}
+
+div#cartas12{
+    margin-left: 8px;
+    width: 485px;
+    height: 265px;  
+}
+
+img#carta1{
+    position: relative;
+    margin-left: 15px;
+    margin-top: 15px;
+    float: left;
+    width: 158.7px;
+    height: 224.5px;
+    border-radius: 15px;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, .7);
+}
+
+img#cartaatual{
+    margin: 15px;
+    position: absolute;
+    margin-top: 170px;
+    width: 105.8px;
+    height: 149.666667px;
+    border-radius: 15px;    
+}
+
+img#carta2{
+    margin-right: 15px;
+    margin-top: 15px;
+    float: right;
+    position: relative;
+    width: 158.7px;
+    height: 224.5px;
+    border-radius: 15px;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, .7);
+}
+
+img#carta3{
+    position: relative;
+    float: left;
+    margin-top: 15px;
+    margin-left: 15px;
+    width: 158.7px;
+    height: 224.5px;
+    border-radius: 15px;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, .7);
+}
+
+img#carta4{
+    position: relative;
+    float: right;
+    width: 158.7px;
+    margin-right: 15px;
+    margin-top: 15px;
+    height: 224.5px;
+    border-radius: 15px;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, .7);
+}
+
+section#tela div#resultado{
+    background: rgba(0, 128, 0, 0.315);
+    text-align: center;   
+    position: relative;
+    margin-left: 198px;
+    margin-top: 230px;
+    width: 105.8px;
+    height: 15.8px;
+}
+
+footer{
+    color: black;
+    text-align: center;
+    margin-top: 10px;
+
+}
+
+
+
+
+
